@@ -1,0 +1,53 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#e0f2fe"/>
+  
+  <!-- Image Recognition System Illustration -->
+  <rect x="100" y="80" width="400" height="240" rx="10" fill="#0ea5e9" opacity="0.8"/>
+  
+  <!-- Camera Viewfinder -->
+  <rect x="150" y="100" width="300" height="200" rx="5" fill="#f8fafc" opacity="0.9"/>
+  
+  <!-- Recognition Elements -->
+  <!-- Person Detection -->
+  <rect x="200" y="120" width="80" height="160" rx="5" stroke="#2563eb" stroke-width="2" stroke-dasharray="5,5" fill="none"/>
+  <text x="240" y="290" font-family="Arial" font-size="12" text-anchor="middle" fill="#1e40af">Person: 98%</text>
+  
+  <!-- Object Detection -->
+  <rect x="320" y="180" width="100" height="80" rx="5" stroke="#2563eb" stroke-width="2" stroke-dasharray="5,5" fill="none"/>
+  <text x="370" y="270" font-family="Arial" font-size="12" text-anchor="middle" fill="#1e40af">Chair: 95%</text>
+  
+  <!-- Face Detection -->
+  <circle cx="240" cy="150" r="25" stroke="#2563eb" stroke-width="2" stroke-dasharray="5,5" fill="none"/>
+  <text x="240" y="120" font-family="Arial" font-size="12" text-anchor="middle" fill="#1e40af">Face: 99%</text>
+  
+  <!-- Neural Network Visualization -->
+  <circle cx="130" cy="130" r="10" fill="#bfdbfe"/>
+  <circle cx="130" cy="160" r="10" fill="#bfdbfe"/>
+  <circle cx="130" cy="190" r="10" fill="#bfdbfe"/>
+  <circle cx="130" cy="220" r="10" fill="#bfdbfe"/>
+  <circle cx="130" cy="250" r="10" fill="#bfdbfe"/>
+  
+  <circle cx="470" cy="130" r="10" fill="#bfdbfe"/>
+  <circle cx="470" cy="160" r="10" fill="#bfdbfe"/>
+  <circle cx="470" cy="190" r="10" fill="#bfdbfe"/>
+  <circle cx="470" cy="220" r="10" fill="#bfdbfe"/>
+  <circle cx="470" cy="250" r="10" fill="#bfdbfe"/>
+  
+  <!-- Connection Lines -->
+  <line x1="140" y1="130" x2="200" y2="120" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="140" y1="160" x2="200" y2="120" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="140" y1="190" x2="200" y2="120" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="140" y1="220" x2="320" y2="180" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="140" y1="250" x2="320" y2="180" stroke="#93c5fd" stroke-width="1"/>
+  
+  <line x1="280" y1="120" x2="460" y2="130" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="280" y1="120" x2="460" y2="160" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="420" y1="180" x2="460" y2="190" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="420" y1="180" x2="460" y2="220" stroke="#93c5fd" stroke-width="1"/>
+  <line x1="420" y1="180" x2="460" y2="250" stroke="#93c5fd" stroke-width="1"/>
+  
+  <!-- Text -->
+  <text x="300" y="350" font-family="Arial" font-size="24" text-anchor="middle" fill="#1e40af">Image Recognition System</text>
+  <text x="300" y="380" font-family="Arial" font-size="16" text-anchor="middle" fill="#1e40af">Python | TensorFlow | OpenCV | Keras</text>
+</svg>
