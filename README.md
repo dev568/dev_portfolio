@@ -54,7 +54,7 @@ To run this website locally:
 
 1. **Clone** the repository:
    ```bash
-   git clone ()
+   git clone (https://github.com/dev568/dev_portfolio)
    cd portfolio
 
 2  Open index.html in your preferred web browser.
