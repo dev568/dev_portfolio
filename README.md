@@ -2,7 +2,9 @@
 
 A modern, elegant, and fully responsive portfolio website built to showcase the skills, projects, and background of **Dev Patel**, a Computer Science & Engineering graduate passionate about backend development, data analysis, and scalable web apps.
 
-🔗 **Live Demo**: []()
+🔗 **Live Demo**: [dev-portfolio-bice-gamma.vercel.app
+](dev-portfolio-bice-gamma.vercel.app
+)
 
 ---
 
