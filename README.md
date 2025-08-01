@@ -1,87 +1,76 @@
-# Dev Patel - Portfolio Website
+# 🚀 Dev Patel — Portfolio Website
 
-A modern, responsive portfolio website showcasing the skills, projects, and experience of Dev Patel, a Computer Science and Engineering graduate.
+A modern, elegant, and fully responsive portfolio website built to showcase the skills, projects, and background of **Dev Patel**, a Computer Science & Engineering graduate passionate about backend development, data analysis, and scalable web apps.
 
-## Features
+🔗 **Live Demo**: []()
 
-- **Responsive Design**: Fully responsive layout that works on all devices
-- **Modern UI**: Clean and professional design with smooth animations
-- **Interactive Elements**: Project filtering, smooth scrolling, and form validation
-- **Comprehensive Sections**: About, Skills, Projects, Education, and Contact sections
-- **3D Elements**: Animated 3D cube showcasing programming skills
+---
 
-## Technologies Used
+![Dev Patel Portfolio Hero](images/screenshot.png)
 
-- HTML5
-- CSS3 (Flexbox, Grid, Animations)
-- JavaScript (ES6+)
-- Font Awesome Icons
-- Google Fonts
+---
 
-## Project Structure
+## ✨ Features
 
-```
+- 🔹 **Responsive Design** — Optimized for desktop, tablet, and mobile
+- 🔹 **Animated 3D Skills Cube** — Showcasing technologies like Python, HTML, CSS, Java
+- 🔹 **Smooth Navigation** — Sticky navbar, smooth scroll, and section highlighting
+- 🔹 **Interactive Contact Form** — With basic validation
+- 🔹 **Project Showcase** — Filterable cards linking to live demos & GitHub
+- 🔹 **Modern UI/UX** — Professional layout with clean fonts and accessible design
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Core Technologies
+- **HTML5** – Semantic structure
+- **CSS3** – Flexbox, Grid, Animations, Variables
+- **JavaScript (ES6+)** – DOM manipulation, interactive elements
+
+### 🧩 UI/Assets
+- **Font Awesome** – Icons
+- **Google Fonts** – Typography
+- **Custom 3D Cube Animation** – CSS-powered rotating cube for tech stack
+
+---
+
+## 📁 Folder Structure
+
 portfolio/
-├── index.html          # Main HTML file
+├── index.html # Main entry point
 ├── css/
-│   └── style.css       # Main stylesheet
+│ └── style.css # All styles and themes
 ├── js/
-│   └── script.js       # JavaScript functionality
-├── images/             # Project and profile images
-└── README.md           # Project documentation
-```
+│ └── script.js # JS logic for interactivity
+├── images/ # Profile, projects, preview screenshots
+└── README.md # Project documentation
 
-## Setup and Usage
+---
 
-1. Clone or download the repository
-2. Open `index.html` in your web browser
-3. Customize the content in the HTML file to match your information
-4. Modify the CSS styles as needed
-5. Update the JavaScript functionality if required
+## 🚀 Getting Started
 
-## Customization
+To run this website locally:
 
-### Personal Information
+1. **Clone** the repository:
+   ```bash
+   git clone ()
+   cd portfolio
 
-Update the following sections in the HTML file:
+2  Open index.html in your preferred web browser.
 
-- Name and title in the hero section
-- About me text and details
-- Skills and proficiency levels
-- Project information and links
-- Education and experience details
-- Contact information
 
-### Styling
+## 🧾 License
+This project is licensed under the MIT License — feel free to fork and use it for your personal portfolio.
 
-The website uses CSS variables for easy customization. You can modify the following variables in the CSS file:
+## 📬 Contact
+Connect with me:
 
-```css
-:root {
-    --primary-color: #2563eb;
-    --secondary-color: #3b82f6;
-    --accent-color: #60a5fa;
-    --dark-color: #1e293b;
-    --light-color: #f8fafc;
-    /* ... other variables */
-}
-```
+🔗 LinkedIn:https://www.linkedin.com/in/devpatel16/
 
-## Deployment
+💻 GitHub: https://github.com/dev568
 
-This website can be deployed on any web hosting service or platform that supports static websites, such as:
+📩 Via [Contact Form] on the website
 
-- GitHub Pages
-- Netlify
-- Vercel
-- Amazon S3
-- Any traditional web hosting service
 
-## License
-
-Feel free to use this template for your personal portfolio.
-
-## Credits
-
-- Fonts: [Google Fonts](https://fonts.google.com/)
-- Icons: [Font Awesome](https://fontawesome.com/)
+Designed & built with ❤️ by Dev Patel
